@@ -4,9 +4,9 @@
 
 🔭 &nbsp; I'm a second-year student in Aalto University’s Master Program in Data Science. \
 ✉️ &nbsp; You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Résumé](https://zhijie-he.github.io/docs/alan_he_cv.pdf) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp; Please have a look at my [Résumé](https://zhijie-he.github.io/docs/alan_he_cv.pdf) and [My website](https://zhijie-he.github.io) for more details about me. I'm open to feedback and suggestions!\
 🌱 &nbsp; I’m currently learning trajectory optimization of simulated characters.\
-🤔 &nbsp; I’m looking for job related to trajectory optimization using reinforcement learning.\
+🤔 &nbsp; I’m looking for job related to trajectory optimization using reinforcement learning.
 <!--
 **Zhijie-He/Zhijie-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Androidstudio](https://img.shields.io/badge/-Androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
-
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
