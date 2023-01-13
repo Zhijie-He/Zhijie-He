@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![Androidstudio](https://img.shields.io/badge/-Androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
