@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm Zhijie He.
 
 
 <!--
@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌱 I’m currently learning
+
+
+
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -27,6 +33,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Androidstudio](https://img.shields.io/badge/-Androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -43,4 +51,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/zhijie-he"><img src="https://img.shields.io/badge/-Zhijie%20He-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zhijiehe97@gmail.com"><img src="https://img.shields.io/badge/-zhijiehe97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+https://img.shields.io/badge/-AlanSunburst-05122A?style=flat&logo=wechat
 </p>
