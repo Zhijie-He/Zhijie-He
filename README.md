@@ -4,7 +4,7 @@
 
 🔭 &nbsp; I'm a second-year student in Aalto University’s Master Program in Data Science. \
 ✉️ &nbsp; You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Résumé](https://zhijie-he.github.io/docs/alan_he_cv.pdf) and [My website](https://zhijie-he.github.io) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp; Please have a look at my [Résumé](https://zhijie-he.github.io/docs/alan_he_cv.pdf) and [<img src="https://img.shields.io/badge/--05122A?style=flat&logo=WebAuthn"/>](https://zhijie-he.github.io) for more details about me. I'm open to feedback and suggestions!\
 🌱 &nbsp; I’m currently learning trajectory optimization of simulated characters.\
 🤔 &nbsp; I’m looking for job related to trajectory optimization using reinforcement learning.
 <!--
