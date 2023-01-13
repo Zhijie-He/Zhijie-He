@@ -1,5 +1,10 @@
 ### 👋 Hi, I'm Zhijie He.
 
+### 👨🏻‍💻 &nbsp;About Me
+
+✉️ &nbsp;You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://zhijie-he.github.io/docs/alan_he_cv.pdf) for more details about me. I'm open to feedback and suggestions!
+
 
 <!--
 **Zhijie-He/Zhijie-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
