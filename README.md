@@ -2,10 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-✉️ &nbsp;You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://zhijie-he.github.io/docs/alan_he_cv.pdf) for more details about me. I'm open to feedback and suggestions!
-
-
+🔭 &nbsp; I'm a second-year student in Aalto University’s Master Program in Data Science. \
+✉️ &nbsp; You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
+📄 &nbsp; Please have a look at my [Résumé](https://zhijie-he.github.io/docs/alan_he_cv.pdf) for more details about me. I'm open to feedback and suggestions!\
+🌱 &nbsp; I’m currently learning trajectory optimization of simulated characters.\
+🤔 &nbsp; I’m looking for job related to trajectory optimization using reinforcement learning.\
 <!--
 **Zhijie-He/Zhijie-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,12 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 I’m currently learning
-
-
-
-
-
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -53,7 +48,7 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/zhijie-he"><img src="https://img.shields.io/badge/-Zhijie%20He-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zhijiehe97@gmail.com"><img src="https://img.shields.io/badge/-zhijiehe97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-AlanSunburst-09B83E?style=flat&logo=wechat&logoColor=white"/>
