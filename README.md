@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/zhijie-he"><img src="https://img.shields.io/badge/-Zhijie%20He-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zhijiehe97@gmail.com"><img src="https://img.shields.io/badge/-zhijiehe97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-AlanSunburst-D1483?style=flat&logo=wechat&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AlanSunburst-09B83E?style=flat&logo=wechat&logoColor=white"/>
 </p>
