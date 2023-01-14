@@ -6,7 +6,7 @@
 ✉️ &nbsp; You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Résumé](https://app.enhancv.com/share/09a9d0f6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) and [My website](https://zhijie-he.github.io) for more details about me. I'm open to feedback and suggestions!\
 🌱 &nbsp; I’m currently learning trajectory optimization of simulated characters.\
-🤔 &nbsp; I’m looking for job related to trajectory optimization using reinforcement learning.
+🤔 &nbsp; I’m looking for job related to Machine learning or trajectory optimization using reinforcement learning.
 <!--
 **Zhijie-He/Zhijie-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
