@@ -7,7 +7,7 @@ Beyond my professional pursuits, I thrive on tackling challenges and am committe
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp; I'm a Master's graduate in Data Science from the EIT Digital Master School, with my entry university being Université de Nice Sophia Antipolis in France and my exit university Aalto University in Finland. \
+🔭 &nbsp; I'm a Master's graduate in Data Science from the [EIT Digital Master School](https://masterschool.eitdigital.eu/), with my entry university being [Université de Nice Sophia Antipolis](https://univ-cotedazur.eu/) in France and my exit university [Aalto University](https://www.aalto.fi/en) in Finland. \
 📫 &nbsp; You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Résumé](https://app.enhancv.com/share/09a9d0f6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) and [My website](https://zhijie-he.github.io) for more details about me. I'm open to feedback and suggestions!\
 🌱 &nbsp; I am currently embarking on an entrepreneurial journey, founding a startup and delving into the development of miniprograms to address unique market needs. \
