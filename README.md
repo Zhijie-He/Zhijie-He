@@ -1,4 +1,9 @@
 ### 👋 Hi, I'm Zhijie He.
+Hello,
+
+I am deeply engaged in the intersection of computer vision, video compression, operations research, and the vast spectrum of machine learning, including deep and reinforcement learning. My professional journey has spanned roles at LiveRamp, Didi's AI labs, Aalto University as a Research Assistant, and Nokia as an External Researcher, accumulating nearly two years of full-time experience. Specifically, I have applied ML algorithms to innovate within the realms of carpooling and video compression, achieving significant advancements in both fields.
+
+Beyond my professional pursuits, I thrive on tackling challenges and am committed to leveraging my expertise for practical applications that address real-world problems. My passion lies in not only exploring the theoretical aspects of AI but also in harnessing this knowledge to create impactful, tangible solutions.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
