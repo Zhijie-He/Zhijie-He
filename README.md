@@ -2,11 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp; I'm a second-year student in Aalto University’s Master Program in Data Science. \
-✉️ &nbsp; You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
+🔭 &nbsp; I'm a Master's graduate in Data Science from the EIT Digital Master School, with my entry university being Université de Nice Sophia Antipolis in France and my exit university Aalto University in Finland. \
+📫 &nbsp; You can shoot me an email at zhijiehe97@gmail! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Résumé](https://app.enhancv.com/share/09a9d0f6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) and [My website](https://zhijie-he.github.io) for more details about me. I'm open to feedback and suggestions!\
-🌱 &nbsp; I’m currently learning trajectory optimization of simulated characters.\
-🤔 &nbsp; I’m looking for job related to Machine learning or trajectory optimization using reinforcement learning.
+🌱 &nbsp; I am currently embarking on an entrepreneurial journey, founding a startup and delving into the development of miniprograms to address unique market needs. \
+🤔 &nbsp; Alongside my business endeavors, I am committed to advancing my academic career by applying for a PhD position in the field of AI applications. 
+😄 &nbsp; My passion lies in harnessing the power of artificial intelligence to create innovative solutions, bridging the gap between theoretical research and practical implementation.
+
 <!--
 **Zhijie-He/Zhijie-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,6 +48,7 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![Miniprogram](https://img.shields.io/badge/-miniprogram-05122A?style=flat&logo=wechat)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
